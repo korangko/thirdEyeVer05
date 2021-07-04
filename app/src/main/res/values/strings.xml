@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">thirdEyeVer05</string>
+    <string name="facebook_app_id">[APP_ID]</string>
+    <string name="fb_login_protocol_scheme">fb[APP_ID]</string>
+    <string name="facebook_url">rtmps://live-api-s.facebook.com:443/rtmp/</string>
+    <string name="youtube_url">rtmp://a.rtmp.youtube.com/live2//</string>
+    <string name="instagram_url">rtmps://live-upload.instagram.com:443/rtmp/</string>
+    <string name="twitch_url">rtmp://live.twitch.tv/app/</string>
+
+</resources>
